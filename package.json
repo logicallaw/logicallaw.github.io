@@ -2,9 +2,11 @@
   "name": "logicallaw.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "nodemon",
+    "build": "rm -rf public && mkdir public && your-build-command" 
   },
   "repository": {
     "type": "git",
