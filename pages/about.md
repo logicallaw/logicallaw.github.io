@@ -115,3 +115,8 @@ I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha Uni
 <div class="row">
   {% include about/awards.html %}
 </div>
+
+<h2 id="certifications">Certifications</h2>
+<div class="row">
+  {% include about/certifications.html %}
+</div>
