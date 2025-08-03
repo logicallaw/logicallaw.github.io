@@ -1,11 +1,11 @@
+- name: C++
+  percentage: 80
+  color: danger
+
 - name: TypeScript
   percentage: 70
-  color: danger
+  color: secondary
 
 - name: Dart
   percentage: 70
   color:
-
-- name: C++
-  percentage: 80
-  color: secondary
