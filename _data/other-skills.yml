@@ -1,7 +1,3 @@
 - name: Figma
-  percentage: 50
-  color: info
-
-# - name: Adobe Illustrator
-#   percentage: 90
-#   color: success
+  percentage: 40
+  color: warning

@@ -1,11 +1,19 @@
 - name: C++
   percentage: 80
-  color: danger
+  color: primary
+
+- name: Java
+  percentage: 75
+  color: info
+
+- name: JavaScript
+  percentage: 80
+  color: warning
 
 - name: TypeScript
   percentage: 70
-  color: secondary
+  color: primary
 
 - name: Dart
   percentage: 70
-  color:
+  color: info
