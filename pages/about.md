@@ -106,6 +106,12 @@ I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha Uni
 </div>
 
 <!-- Timeline Section -->
+<h2 id="experience">Experience</h2>
 <div class="row">
   {% include about/timeline.html %}
+</div>
+
+<h2 id="education">Awards</h2>
+<div class="row">
+  {% include about/awards.html %}
 </div>
