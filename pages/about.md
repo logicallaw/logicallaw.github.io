@@ -7,8 +7,9 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I’m junho Kim, a passionate Full-stack developer eager to explore new challenges and experiences.
+### 도전을 통해 더 많은 경험을 하는 개발자
+
+안녕하십니까! 인하대학교 컴퓨터공학과 3학년 재학 중인 김준호입니다.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
