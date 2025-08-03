@@ -7,9 +7,9 @@ weight: 3
 
 # **About Me**
 
-### 도전을 통해 더 많은 경험을 하는 개발자
+### A developer with a strong spirit of challenge
 
-안녕하십니까! 인하대학교 컴퓨터공학과 3학년 재학 중인 김준호입니다.
+I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha University.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
