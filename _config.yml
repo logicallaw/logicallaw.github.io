@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Junho Kim
 description         : >-
-                      :wave: Hi, I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha University.
+                      👋🏻 Hi, I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha University.
 baseurl             : ""            # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : logicallaw/logicallaw.github.io      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : yousinix/portfolYOU
@@ -9,8 +9,8 @@ open_new_tab        : false                    # Opens external URLs in new tab 
 
 
 ### Plugins ###
-# plugins:
-#   - jemoji
+plugins:
+  - jemoji
 
 
 ### Navbar Settings ###
