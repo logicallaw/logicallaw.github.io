@@ -6,9 +6,9 @@ weight: 3
 ---
 
 <!-- Page Title & Introduction -->
-### A developer with a strong spirit of challenge
+# ❤️‍🔥 A developer with a strong spirit of challenge
 
-I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha University.
+I'm **Junho Kim**, a junior majoring in Computer Science and Engineering at Inha University.
 
 <!-- 🔧 Custom CSS -->
 <style>
@@ -101,27 +101,27 @@ I'm Junho Kim, a junior majoring in Computer Science and Engineering at Inha Uni
 
 <!-- Skills Section -->
 <div class="row">
-  {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
-  {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
+  {% include about/skills.html title="🖥️ Programming Skills" source=site.data.programming-skills %}
+  {% include about/skills.html title="💥 Other Skills" source=site.data.other-skills %}
 </div>
 
 <!-- Timeline Section -->
-<h2 id="experience">Experience</h2>
+<h2 id="experience">🎓 Experience</h2>
 <div class="row">
   {% include about/timeline.html %}
 </div>
 
-<h2 id="education">Awards</h2>
+<h2 id="education">🏆 Awards</h2>
 <div class="row">
   {% include about/awards.html %}
 </div>
 
-<h2 id="certifications">Certifications</h2>
+<h2 id="certifications">📚 Certifications</h2>
 <div class="row">
   {% include about/certifications.html %}
 </div>
 
-<h2 id="scholarships">Scholarships</h2>
+<h2 id="scholarships">🎖️ Scholarships</h2>
 <div class="row">
   {% include about/scholarships.html %}
 </div>
