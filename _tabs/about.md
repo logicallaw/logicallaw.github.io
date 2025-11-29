@@ -12,7 +12,7 @@ order: 4
 
 ## 💬 좌우명
 
-> 일단 도전하고 경험을 많이 하자!
+일단 도전하고 경험을 많이 하자!
 
 ---
 
@@ -69,6 +69,8 @@ order: 4
 
 - **탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 - 인하대학교 총장상(대상)** <br>
 <span style="color: grey;">인하대학교 SW중심대학사업단 · 2024.12.23. · Amount - 1,500,000 KRW</span> 
+
+
 ---
 
 ## 📚 자격증
@@ -84,15 +86,15 @@ order: 4
 ## 🎖️ 장학금
 
 - **2025 SW중심대학 CEN 마일리지 장학금** <br>
-<span style="color: grey;">2025년 1학기 / Amount - 500,000 KRW</span>
+<span style="color: grey;">2025년 1학기 · Amount - 500,000 KRW</span>
 
 - **성적우수장학금(전액)**<br>
-<span style="color: grey;">2025년 1학기 / Amount - 2,507,000 KRW</span>
+<span style="color: grey;">2025년 1학기 · Amount - 2,507,000 KRW</span>
 
 - **성적우수장학금(1/3)**<br>
-<span style="color: grey;">2024년 2학기 / Amount - 1,400,000 KRW</span>
+<span style="color: grey;">2024년 2학기 · Amount - 1,400,000 KRW</span>
 
 - **장학사정관제**<br>
-<span style="color: grey;">2021년 2학기 / Amount - 1,000,000 KRW</span>
+<span style="color: grey;">2021년 2학기 · Amount - 1,000,000 KRW</span>
 
 ---
