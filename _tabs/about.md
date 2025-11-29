@@ -50,25 +50,25 @@ order: 4
 ## 🏆 수상 경력
 
 - **2025 생성형AI 쇼츠 공모전 - SW중심대학사업단장상(장려상)** <br>
-<span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.12.03. </span> Amount - 100,000 KRW <br>
+<span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.12.03. · Amount - 100,000 KRW</span> 
 
 - **2025 ‘소중한 배움, 큰 변화’ 에세이 공모전 - SW중심대학사업단장상(최우수상)** <br>
-<span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.11.26.</span> Amount - 300,000 KRW <br>
+<span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.11.26. · Amount - 300,000 KRW</span> 
 
 - **2025 오픈소스SW 페스티벌 - SW중심대학사업단장상(우수상)** <br>
-<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.10.27.</span> Amount - 200,000 KRW <br>
+<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.10.27. · Amount - 200,000 KRW</span>
 
 - **탄소중립 INNOVATION ACADEMY 4기 개인 프로젝트 - SW중심대학사업단장상(우수상)** <br>
-<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.06.23.</span> Amount - 200,000 KRW <br>
+<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.06.23. · Amount - 200,000 KRW</span>
 
 - **탄소중립 INNOVATION ACADEMY 4기 팀 프로젝트 - SW중심대학사업단장상(우수상)** <br>
-<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.06.23.</span> Amount - 300,000 KRW <br>
+<span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.06.23. · Amount - 300,000 KRW</span> 
 
 - **2024학년도 2학기 소프트웨어융합대학 성적 우수상 - 소프웨어융합대학장** <br>
-<span style="color: grey;">인하대학교 소프트웨어융합대학 · 2025.03.21.</span> 
+<span style="color: grey;">인하대학교 소프트웨어융합대학 · 2025.03.21. · Amount - 300,000 KRW</span> 
 
 - **탄소중립 INNOVATION ACADEMY 3기 팀 프로젝트 - 인하대학교 총장상(대상)** <br>
-<span style="color: grey;">인하대학교 SW중심대학사업단 · 2024.12.23.</span> Amount - 1,500,000 KRW <br>
+<span style="color: grey;">인하대학교 SW중심대학사업단 · 2024.12.23. · Amount - 1,500,000 KRW</span> 
 ---
 
 ## 📚 자격증
@@ -83,17 +83,16 @@ order: 4
 
 ## 🎖️ 장학금
 
-- **Scholarship for SW-Centered University CEN Mileage** · *Spring 2025 (25-1)* <br>
-  Awarded by SW-Centered University Project / Amount - 500,000 KRW
+- **2025 SW중심대학 CEN 마일리지 장학금** <br>
+<span style="color: grey;">2025년 1학기 / Amount - 500,000 KRW</span>
 
-- **Scholarship for Academic Excellence (Full Tuition)** · *Spring 2025 (25-1)* <br>
-  Awarded by the Department of Computer Science and Engineering / Amount - 2,507,000 KRW
+- **성적우수장학금(전액)**<br>
+<span style="color: grey;">2025년 1학기 / Amount - 2,507,000 KRW</span>
 
-- **Scholarship for Academic Excellence (1/3 Tuition)** · *Fall 2024 (24-2)* <br>
- Awarded by the Department of Computer Science and Engineering / Amount - 1,400,000 KRW
+- **성적우수장학금(1/3)**<br>
+<span style="color: grey;">2024년 2학기 / Amount - 1,400,000 KRW</span>
 
-- **Department-Recommended Scholarship** · *Fall 2021 (21-2)* <br>
-  Awarded by the Department of Biological Engineering / Amount - 1,000,000 KRW
-
+- **장학사정관제**<br>
+<span style="color: grey;">2021년 2학기 / Amount - 1,000,000 KRW</span>
 
 ---
