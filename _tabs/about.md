@@ -54,8 +54,7 @@ order: 4
 - **2025 생성형AI 쇼츠 공모전 - SW중심대학사업단장상(장려상)** <br>
 <span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.12.03. · Amount - 100,000 KRW</span> 
 
-- **2025 ‘소중한 배움, 큰 변화’ 에세이 공모전 - SW중심대학사업단장상(최우수상)** <br>
-<span style="color: gray;">인하대학교 SW중심대학사업단 · 2025.11.26. · Amount - 300,000 KRW</span> 
+- <a href="https://www.inha.ac.kr/kr/952/subview.do?&enc=Zm5jdDF8QEB8JTJGYmJzJTJGa3IlMkYxMSUyRjQyNDM4JTJGYXJ0Y2xWaWV3LmRvJTNGcGFnZSUzRDElMjZzcmNoQ29sdW1uJTNEJTI2c3JjaFdyZCUzRCUyNmJic0NsU2VxJTNEJTI2YmJzT3BlbldyZFNlcSUzRCUyNnJnc0JnbmRlU3RyJTNEJTI2cmdzRW5kZGVTdHIlM0QlMjZpc1ZpZXdNaW5lJTNEZmFsc2UlMjZwYXNzd29yZCUzRCUyNg==" target="_blank" rel="noopener noreferrer">**2025 ‘소중한 배움, 큰 변화’ 에세이 공모전 - SW중심대학사업단장상(최우수상)**</a><br>
 
 - **2025 오픈소스SW 페스티벌 - SW중심대학사업단장상(우수상)** <br>
 <span style="color: grey;">인하대학교 SW중심대학사업단 · 2025.10.27. · Amount - 200,000 KRW</span>
